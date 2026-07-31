@@ -19,7 +19,7 @@
 .slick-next .slick-next-icon,
 .slick-dots li button .slick-dot-icon,
 .slick-dots li.slick-active button .slick-dot-icon {
-  color: white;
+  color: rgb(229, 20, 20);
 }
 
 /* Customize Previous/Next/Dots/Autoplay - Active State */
